@@ -1,7 +1,7 @@
 import express from 'express'
 import { join } from 'path'
 
-const PORT = process.env.PORT || '3000'
+const PORT = process.env.PORT || '8081'
 const app = express()
 
 app.enable('trust proxy')
