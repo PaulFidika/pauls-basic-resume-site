@@ -28,7 +28,7 @@ function App() {
             2022: Started two Solana NFT projects (tba) and OpenRails, a Solana payments project
           </li>
         </ul>
-        <p>Additional Links:</p>
+        <div>Additional Links:</div>
         <ul>
           <li>
             <a href="https://github.com/Open-Rails" target="_blank" rel="noreferrer">
@@ -56,7 +56,14 @@ function App() {
             </a>
           </li>
         </ul>
-        <p>Contacts:</p>
+        <div>Technical Skills:</div>
+        <ul>
+          <li>Typescript</li>
+          <li>Client-side: React, Framer-motion</li>
+          <li>Server-side: Express, NestJS, GraphQL</li>
+          <li>Learning Rust</li>
+        </ul>
+        <div>Contacts:</div>
         <ul>
           <li>Email: paul@fidika.com</li>
           <li>Discord: PaulFidika#3073</li>
